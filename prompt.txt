@@ -1,0 +1,7 @@
+Make the best flight game ($500 bounty, best-flight-game-20261126-0057):
+build an original 3D flight game — chase view and cockpit view over
+recognisable procedural terrain (island, beach, runway), the aircraft in
+frame with lit instruments, a target ring and the runway ahead, and
+altitude, speed and heading on the HUD. Keyboard + mouse controls,
+a ring-course mission ending in a runway landing, fuel and damage,
+synthesised sound, static files under game/ with no network requests.
